@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "react": "^15.1.0"
+  },
   "devDependencies": {
     "eslint": "^2.12.0",
     "eslint-config-airbnb": "^9.0.1",
