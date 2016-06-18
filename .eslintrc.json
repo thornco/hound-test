@@ -5,7 +5,7 @@
   "env": {
     "browser": true
   },
-  "settings": {
-    "import/parser": "babel-eslint"
+  "rules": {
+    "import/no-unresolved": 0
   }
 }
